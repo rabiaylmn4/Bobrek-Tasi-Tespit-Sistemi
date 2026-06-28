@@ -1,1 +1,1 @@
-# Bobrek-Tasi-Tespit-Sistemi-YOLOv8
+# Bobrek-Tasi-Tespit-Sistemi
