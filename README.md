@@ -11,7 +11,7 @@ Proje kapsamında en güncel nesne tespiti mimarileri karşılaştırmalı olara
 * **Temel Dil ve Kütüphaneler:** Python, PyTorch, Ultralytics, OpenCV (cv2), NumPy, Pandas
 * **Eğitim Ortamı:** Google Colab (GPU Destekli)
 
-##  Deneysel Sonuçlar (50 Epok)
+##  Deneysel Sonuçlar (50 Epoch)
 Eğitim süreçleri sonunda bağımsız test veri setinde elde edilen en optimum model metrikleri aşağıda sunulmuştur:
 
 | Model Mimarisi | Precision (Keskinlik) | Recall (Duyarlılık) | mAP50 |
